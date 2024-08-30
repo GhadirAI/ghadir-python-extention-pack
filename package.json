@@ -1,0 +1,53 @@
+{
+  "name": "ghadir-python-extention-pack",
+  "displayName": "Ghadir Python Extention Pack",
+  "description": "A Python Extention pack for nerds",
+  "publisher": "GhadirAI",
+  "version": "0.0.1",
+  "icon": "logo.png",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GhadirAI/ghadir-python-extention-pack"
+  },
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.debugpy",
+    "xelad0m.jupyter-toc",
+    "ms-vscode.makefile-tools",
+    "johnpapa.vscode-peacock",
+    "ms-python.vscode-pylance",
+    "damildrizzy.fastapi-snippets",
+    "mikestead.dotenv",
+    "njpwerner.autodocstring",
+    "ms-python.black-formatter",
+    "adpyke.codesnap",
+    "ExodiusStudios.comment-anchors",
+    "vivaxy.vscode-conventional-commits",
+    "ms-toolsai.datawrangler",
+    "ms-vscode-remote.remote-containers",
+    "batisteo.vscode-django",
+    "ms-azuretools.vscode-docker",
+    "waderyan.gitblame",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "GitHub.vscode-pull-request-github",
+    "ms-python.isort",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-powertoys",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "donjayamanne.python-environment-manager",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "rangav.vscode-thunder-client",
+    "DotJoshJohnson.xml"
+  ]
+}
